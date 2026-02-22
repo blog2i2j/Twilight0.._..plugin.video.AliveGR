@@ -13,7 +13,7 @@ assignees: Twilight0
 
 - [ ] This is a bug report
 - [ ] This is a feature request
-- [ ] I've made sure that I am running the latest versιon: [look here](https://github.com/Twilight0/plugin.video.AliveGR/blob/master/addon.xml#L2 "2.11.X")
+- [ ] I've made sure that I am running the latest versιon: [look here](https://github.com/Twilight0/plugin.video.alivegr/blob/master/addon.xml#L2 "2.11.X")
 
 ### System tested on
 
